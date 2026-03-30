@@ -1,6 +1,6 @@
 # E-Commerce Order Engine
-
-Hey there! Welcome to my E-Commerce Order Engine. This is a command-line application written in pure Java. It simulates a real-world e-commerce backend (like Amazon or Flipkart), all tucked into a lightweight console program without any external database dependencies.
+Hello Team
+Welcome to my E-Commerce Order project. This is a command-line application written in pure Java. It simulates a real-world e-commerce backend (like Amazon or Flipkart etc.), all tucked into a lightweight console program without any external database dependencies.
 
 I built this to bring together concepts like managing shopping carts, handling inventory, taking orders, and dealing with payment processing. It even mimics real-world scenarios like what happens when multiple people try to buy the last item at the exact same time!
 
